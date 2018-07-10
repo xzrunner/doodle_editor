@@ -1,0 +1,17 @@
+#ifndef _FEDITOR_TEXTURE_MERGE_TYPES_DEF_H_
+#define _FEDITOR_TEXTURE_MERGE_TYPES_DEF_H_
+
+namespace FEDITOR
+{
+	namespace TEXTURE_MERGE
+	{
+		enum IMG_TYPE
+		{
+			BMP,
+			PNG,
+			JPG
+		};
+	}
+}
+
+#endif // _FEDITOR_TEXTURE_MERGE_TYPES_DEF_H_

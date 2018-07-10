@@ -1,0 +1,11 @@
+Lib/
+Include/
+*Debug/
+*Release/
+*.user
+*.bin
+*.png
+*.ncb
+*.suo
+*.rc
+*.aps
